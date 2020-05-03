@@ -1,2 +1,3 @@
-# 100DaysofML
-dump and log for #100DaysofML routine. 
+-----
+# #d1 May 3, 2020
+
