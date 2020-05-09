@@ -4,3 +4,6 @@ setup complete. most of the code will be uploaded at [riyadhrazzaq/pywork](https
 # #d1 May 7, 2020
 Read up on Decision Tree Regressor theroy. 
 https://www.saedsayad.com/decision_tree_reg.htm
+
+# #d2 May 8, 2020
+Stuck in implementation of Decision Tree Regressor. will updated if completed.
