@@ -7,3 +7,5 @@ https://www.saedsayad.com/decision_tree_reg.htm
 
 # #d2 May 8, 2020
 Stuck in implementation of Decision Tree Regressor. will updated if completed.
+# #d3 May 10, 2020
+Decision Tree Regressor Implementation. [CODE](https://github.com/riyadhrazzaq/pywork/blob/master/scripts/mlfromscratch/DecisionTreeRegressor.py) [THEORY](https://www.saedsayad.com/decision_tree_reg.htm)
