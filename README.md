@@ -11,3 +11,5 @@ Stuck in implementation of Decision Tree Regressor. will updated if completed.
 Decision Tree Regressor Implementation. [CODE](https://github.com/riyadhrazzaq/pywork/blob/master/scripts/mlfromscratch/DecisionTreeRegressor.py) [THEORY](https://www.saedsayad.com/decision_tree_reg.htm)
 # #d4 May 13, 2020
 Decision Tree Classifier implementation. [[code]](https://github.com/riyadhrazzaq/pywork/blob/master/scripts/mlfromscratch/DecisionTreeClassifier.py) [[theory]](https://www.saedsayad.com/decision_tree.htm)
+# #d5 May 15, 2020
+SVM Theory [[theory]](#)
