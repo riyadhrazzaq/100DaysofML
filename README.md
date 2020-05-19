@@ -13,3 +13,7 @@ Decision Tree Regressor Implementation. [CODE](https://github.com/riyadhrazzaq/p
 Decision Tree Classifier implementation. [[code]](https://github.com/riyadhrazzaq/pywork/blob/master/scripts/mlfromscratch/DecisionTreeClassifier.py) [[theory]](https://www.saedsayad.com/decision_tree.htm)
 # #d5 May 15, 2020
 SVM Theory [[theory]](#)
+# d6 May 18, 2020
+Quadratic Optimization for SVM, resources-
+* https://courses.csail.mit.edu/6.867/wiki/images/a/a7/Qp-cvxopt.pdf
+* https://scaron.info/blog/quadratic-programming-in-python.html
