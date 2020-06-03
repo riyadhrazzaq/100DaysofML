@@ -17,7 +17,9 @@ SVM Theory [[theory]](https://cling.csd.uwo.ca/cs860/papers/SVM_Explained.pdf)
 Quadratic Optimization for SVM, resources-
 * https://courses.csail.mit.edu/6.867/wiki/images/a/a7/Qp-cvxopt.pdf
 * https://scaron.info/blog/quadratic-programming-in-python.html
-# d7 May 19, 2020
+# #d7 May 19, 2020
 SVM Implementation(binary, linear kernel) [[theory]](https://cling.csd.uwo.ca/cs860/papers/SVM_Explained.pdf) [[code]](https://github.com/riyadhrazzaq/pywork/blob/master/scripts/mlfromscratch/svm.py) 
 
 Quadratic Programming code/format taken from https://pythonprogramming.net/soft-margin-kernel-cvxopt-svm-machine-learning-tutorial/ , they have credited http://mblondel.org/ for the original code. 
+# #d8 June 1, 2020
+Netflix Dataset EDA
