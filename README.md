@@ -23,3 +23,5 @@ SVM Implementation(binary, linear kernel) [[theory]](https://cling.csd.uwo.ca/cs
 Quadratic Programming code/format taken from https://pythonprogramming.net/soft-margin-kernel-cvxopt-svm-machine-learning-tutorial/ , they have credited http://mblondel.org/ for the original code. 
 # #d8 June 1, 2020
 Netflix Dataset EDA
+# #d9 June 5, 2020
+Netflix EDA Complete [CODE](https://github.com/riyadhrazzaq/pywork/blob/master/notebooks/netflix_movies.ipynb)
