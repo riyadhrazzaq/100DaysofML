@@ -24,4 +24,6 @@ Quadratic Programming code/format taken from https://pythonprogramming.net/soft-
 # #d8 June 1, 2020
 Netflix Dataset EDA
 # #d9 June 5, 2020
-Netflix EDA Complete [CODE](https://github.com/riyadhrazzaq/pywork/blob/master/notebooks/netflix_movies.ipynb)
+Netflix EDA Complete [CODE](https://github.com/riyadhrazzaq/pywork/blob/master/notebooks/Netflix EDA & Recommender.ipynb)
+# #d10 June 6, 2020
+Netflix Recommender. Cosine Similarity with Word Embedding, TfIdf. [CODE](https://github.com/riyadhrazzaq/pywork/blob/master/notebooks/Netflix EDA & Recommender.ipynb)
