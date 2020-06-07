@@ -27,3 +27,5 @@ Netflix Dataset EDA
 Netflix EDA Complete [CODE](https://github.com/riyadhrazzaq/pywork/blob/master/notebooks/Netflix EDA & Recommender.ipynb)
 # #d10 June 6, 2020
 Netflix Recommender. Cosine Similarity with Word Embedding, TfIdf. [CODE](https://github.com/riyadhrazzaq/pywork/blob/master/notebooks/Netflix EDA & Recommender.ipynb)
+# #d11 June 7, 2020
+Netflix titles analysis and recommender based on clustering. [CODE]()
