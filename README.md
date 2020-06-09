@@ -31,3 +31,5 @@ Netflix Recommender. Cosine Similarity with Word Embedding, TfIdf.
 Netflix titles analysis and recommender based on clustering. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/netflix-eda-recommender)
 # d12 June 8, 2020
 Collaborative Filtering with SGD. [[THEORY]](https://developers.google.com/machine-learning/recommendation/collaborative/matrix)
+# d13 June 9, 2020
+Spent the whole day trying to fix CF w/ SGD implementation from scratch. I made a mistake in SGD. Will fix later in sha Allah. 
