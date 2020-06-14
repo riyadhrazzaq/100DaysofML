@@ -35,3 +35,6 @@ Collaborative Filtering with SGD. [[THEORY]](https://developers.google.com/machi
 Spent the whole day trying to fix CF w/ SGD implementation from scratch. I made a mistake in SGD. Will fix later in sha Allah. 
 # d14 June 11, 2020
 Linear Regression w/ GD. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/gradient-descent-for-linear-regression?scriptVersionId=35945683) w/ Stochastic Gradient Descent [[CODE]]()
+# d15 June 13, 2020
+Non-negative Matrix Factorization w/ SGD. [[NOTEBOOK]]() [[SCRIPT]]()
+
