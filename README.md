@@ -41,4 +41,9 @@ w/ Gradient Descent [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/gradient-de
 w/ Stochastic Gradient Descent [[SCRIPT]](https://github.com/riyadhrazzaq/pywork/tree/master/scripts/mlfromscratch/linear_regression.py)
 # d15 June 13, 2020
 Non-negative Matrix Factorization w/ SGD. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/collaborative-filtering-w-mf-from-scratch)
-# d16 June 15, Ridge Regression. [[SCRIPT]](https://github.com/riyadhrazzaq/pywork/blob/master/scripts/mlfromscratch/ridge_regression.py)
+# d16 June 15, 2020
+ Ridge Regression. [[SCRIPT]](https://github.com/riyadhrazzaq/pywork/blob/master/scripts/mlfromscratch/ridge_regression.py)
+# d17 June 29, 2020
+Lasso Regression [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/lasso-regression-scratch) This implementation is really buggy. But I did not understand the theory clearly to code further. Maybe later, in sha Allah.
+
+
