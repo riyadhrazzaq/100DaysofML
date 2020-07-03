@@ -1,3 +1,4 @@
+
 # d0 May 3, 2020
 setup complete. most of the code will be uploaded at [riyadhrazzaq/pywork](https://github.com/riyadhrazzaq/pywork.git) or at [kaggle/riyadhrazzaq](https://kaggle.com/riyadhrazzaq)
 
@@ -47,4 +48,5 @@ Non-negative Matrix Factorization w/ SGD. [[NOTEBOOK]](https://www.kaggle.com/ri
 Lasso Regression [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/lasso-regression-scratch) This implementation is really buggy. But I did not understand the theory clearly to code further. Maybe later, in sha Allah.
 # d18 July 1, 2020
 Gaussian Naive Bayes [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/gaussian-naive-bayes-classifier/). Really proud of this implementation. Spent the whole day on Bayes Theorem, Normal Distribution. 3Blue1Brown's video on [Bayes Theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM&t=467s) helped the most. Never seen such an intuitive video about probability. This is the first code in ML that I have written had the lowest number of bugs. 1, actually. Forgot to add `tmp+=1` inside function `def predict()` in class `GaussNB`
-
+# d19 July 3, 2020
+Multinomial Naive Bayes implementation. Can't fix a bug.
