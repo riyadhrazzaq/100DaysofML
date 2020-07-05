@@ -50,3 +50,5 @@ Lasso Regression [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/lasso-regressi
 Gaussian Naive Bayes [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/gaussian-naive-bayes-classifier/). Really proud of this implementation. Spent the whole day on Bayes Theorem, Normal Distribution. 3Blue1Brown's video on [Bayes Theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM&t=467s) helped the most. Never seen such an intuitive video about probability. This is the first code in ML that I have written had the lowest number of bugs. 1, actually. Forgot to add `tmp+=1` inside function `def predict()` in class `GaussNB`
 # d19 July 3, 2020
 Multinomial Naive Bayes implementation. Can't fix a bug.
+# d20 July 5, 2020
+This gave a lot of trouble. Lesson learned- read the theory from multiple sources if possible, even after you understand it. Multinomial NB implementation complete. [[NOTEBOOk]](https://www.kaggle.com/riyadhrazzaq/multinomial-naive-bayes-from-scratch) with Spam Classification. [[SCRIPT]](https://github.com/riyadhrazzaq/scratched-ml/blob/master/mlfromscratch/multinomial_naive_bayes.py)
