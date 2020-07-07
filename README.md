@@ -52,4 +52,4 @@ Multinomial Naive Bayes implementation. Can't fix a bug.
 # d20 July 5, 2020
 This gave a lot of trouble. Lesson learned- read the theory from multiple sources if possible, even after you understand it. Multinomial NB implementation complete. [[NOTEBOOk]](https://www.kaggle.com/riyadhrazzaq/multinomial-naive-bayes-from-scratch) with Spam Classification. [[SCRIPT]](https://github.com/riyadhrazzaq/scratched-ml/blob/master/mlfromscratch/multinomial_naive_bayes.py)
 # d21 July 7, 2020
-Logistic Regression theory from ISLR and ESL. 
+Logistic Regression theory from ISLR and ESL. Plan to read [this](http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) too. 
