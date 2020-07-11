@@ -55,3 +55,5 @@ This gave a lot of trouble. Lesson learned- read the theory from multiple source
 Logistic Regression theory from ISLR and ESL. Plan to read [this](http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) too. 
 # d22 July 9, 2020
 Logistic Regression from Scratch using Batch Gradient Descent. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/logistic-regression-from-scratch)
+# d23 July 11, 2020
+Linear Algebra [[MITOPENCOURSEWARE]](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/assignments/). EDA. will post link if I work on it further.
