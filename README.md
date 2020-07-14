@@ -57,3 +57,7 @@ Logistic Regression theory from ISLR and ESL. Plan to read [this](http://www.sta
 Logistic Regression from Scratch using Batch Gradient Descent. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/logistic-regression-from-scratch)
 # d23 July 11, 2020
 Linear Algebra [[MITOPENCOURSEWARE]](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/assignments/). EDA. will post link if I work on it further.
+# d24 July 13, 2020
+ICU Prediction of COVID-19 Patients. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/early-icu-prediction-w-basic-eda-roc-auc-0-90)
+# d25 July 14, 2020
+Linear Regression, *Python for Data Analysis* exercises on Pandas. 
