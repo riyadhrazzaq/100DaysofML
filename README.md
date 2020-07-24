@@ -47,6 +47,19 @@ Non-negative Matrix Factorization w/ SGD. [[NOTEBOOK]](https://www.kaggle.com/ri
 Lasso Regression [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/lasso-regression-scratch) This implementation is really buggy. But I did not understand the theory clearly to code further. Maybe later, in sha Allah.
 # d18 July 1, 2020
 Gaussian Naive Bayes [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/gaussian-naive-bayes-classifier/). Really proud of this implementation. Spent the whole day on Bayes Theorem, Normal Distribution. 3Blue1Brown's video on [Bayes Theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM&t=467s) helped the most. Never seen such an intuitive video about probability. This is the first code in ML that I have written had the lowest number of bugs. 1, actually. Forgot to add `tmp+=1` inside function `def predict()` in class `GaussNB`
-
-# d19 July 25, 2020
+# d19 July 3, 2020
+Multinomial Naive Bayes implementation. Can't fix a bug.
+# d20 July 5, 2020
+This gave a lot of trouble. Lesson learned- read the theory from multiple sources if possible, even after you understand it. Multinomial NB implementation complete. [[NOTEBOOk]](https://www.kaggle.com/riyadhrazzaq/multinomial-naive-bayes-from-scratch) with Spam Classification. [[SCRIPT]](https://github.com/riyadhrazzaq/scratched-ml/blob/master/mlfromscratch/multinomial_naive_bayes.py)
+# d21 July 7, 2020
+Logistic Regression theory from ISLR and ESL. Plan to read [this](http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf) too. 
+# d22 July 9, 2020
+Logistic Regression from Scratch using Batch Gradient Descent. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/logistic-regression-from-scratch)
+# d23 July 11, 2020
+Linear Algebra [[MITOPENCOURSEWARE]](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/assignments/). EDA. will post link if I work on it further.
+# d24 July 13, 2020
+ICU Prediction of COVID-19 Patients. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/early-icu-prediction-w-basic-eda-roc-auc-0-90)
+# d25 July 14, 2020
+Linear Regression, *Python for Data Analysis* exercises on Pandas. 
+# d26 July 25, 2020
 Cross Validation. Notebook on DrivenData competition DengAI
