@@ -63,3 +63,5 @@ ICU Prediction of COVID-19 Patients. [[NOTEBOOK]](https://www.kaggle.com/riyadhr
 Linear Regression, *Python for Data Analysis* exercises on Pandas. 
 # d26 July 25, 2020
 Cross Validation. Notebook on DrivenData competition DengAI
+# 27 July 26, 2020
+Bagging, Random Forest, DengAI
