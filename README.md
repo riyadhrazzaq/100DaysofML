@@ -65,3 +65,5 @@ Linear Regression, *Python for Data Analysis* exercises on Pandas.
 Cross Validation. Notebook on DrivenData competition DengAI
 # d27 July 26, 2020
 Bagging, Random Forest, DengAI, Boosting(AdaBoost)
+# d28 July 29, 2020
+Best Subset Selection notebook partially done. Practiced few sections from Python for Data Analysis, Wes McKinney. 
