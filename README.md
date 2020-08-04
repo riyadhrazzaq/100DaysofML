@@ -67,3 +67,9 @@ Cross Validation. Notebook on DrivenData competition DengAI
 Bagging, Random Forest, DengAI, Boosting(AdaBoost)
 # d28 July 29, 2020
 Best Subset Selection notebook partially done. Practiced few sections from Python for Data Analysis, Wes McKinney. 
+# d29 July 31, 2020
+Best Subset complete. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/subset-selection)
+# d30 Aug 3, 2020
+Hyperparameter tuning with RandomSearchCV from scratch. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/randomized-search-cv)
+# d31 Aug 4, 2020
+Handling Multiclass Classification with 1vsRest, 1vs1 from scratch. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/handling-multiclass-classification)
