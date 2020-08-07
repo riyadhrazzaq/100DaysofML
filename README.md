@@ -73,3 +73,5 @@ Best Subset complete. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/subset-se
 Hyperparameter tuning with RandomSearchCV from scratch. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/randomized-search-cv)
 # d31 Aug 4, 2020
 Handling Multiclass Classification with 1vsRest, 1vs1 from scratch. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/handling-multiclass-classification)
+# d32 Aug 6, 2020
+House Price Revisited.
