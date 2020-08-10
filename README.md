@@ -75,3 +75,7 @@ Hyperparameter tuning with RandomSearchCV from scratch. [[NOTEBOOK]](https://www
 Handling Multiclass Classification with 1vsRest, 1vs1 from scratch. [[NOTEBOOK]](https://www.kaggle.com/riyadhrazzaq/handling-multiclass-classification)
 # d32 Aug 6, 2020
 House Price Revisited.
+# d33 Aug 8, 2020
+Hierarchical Clustering. Theory from ISLR book. Code partially done.
+# d34 Aug 9, 2020
+Hierarchical Clustering - Agglomerative approach, code complete for linkage types: single, complete.
