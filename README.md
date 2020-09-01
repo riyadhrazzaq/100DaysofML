@@ -79,5 +79,5 @@ House Price Revisited.
 Hierarchical Clustering. Theory from ISLR book. Code partially done.
 # d34 Aug 9, 2020
 Hierarchical Clustering - Agglomerative approach, code complete for linkage types: single, complete.
-# d31 Sept 1, 2020
+# d35 Sept 1, 2020
 Feature Preprocessing and feature generation review. Currently reading chapter 4 of ILA by Prof. G. Strang.
